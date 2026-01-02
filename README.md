@@ -17,7 +17,7 @@ Schematic
 
 ![Schematic image](https://github.com/Shai-08/hackpad/blob/main/Schematic.png)
 
-![PCB Schematic]()
+![PCB Schematic](https://github.com/Shai-08/hackpad/blob/main/PCB.png)
 
 I used MX_V2 for the keyswitch footprints. I think in retrospect, I should've added a ground plane
 
