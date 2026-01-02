@@ -9,6 +9,8 @@ Case EC11 Rotary encoder for sound and volume (please double check if i did it r
 CAD Model:
 
 This has 2 parts to the case, which will be held together with 4 M3 Screws
+![Case image](https://example.com/path/to/case.png)
+
 
 Schematic
 
