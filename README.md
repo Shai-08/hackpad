@@ -19,17 +19,23 @@ Schematic
 
 ![PCB Schematic](https://github.com/Shai-08/hackpad/blob/main/PCB.png)
 
-I used MX_V2 for the keyswitch footprints. I think in retrospect, I should've added a ground plane
 
-Firmware Overview This hackpad uses QMK firmware for everything.
+Firmware:
 
-The rotary encoder changes volume. press to mute The 4 keys currently act as macros, which The OLED is a cat!!
+This hackpad uses QMK firmware for everything.
 
-I might add more in the future! That's it for now
+The rotary encoder changes volume
+The 4 keys currently act as macros
 
-BOM: Here should be everything you need to make this hackpad
+BOM:
 
-4x Cherry MX Switches 4x DSA Keycaps 5x M3x5x4 Heatset inserts 4x M3x16mm SHCS Bolts 2x WS2812B LEDs 1x EC11 Rotary Encoder 1x XIAO RP2040 1x Case
+4x Cherry MX Switches 
+4x DSA Keycaps
+4x M3x16mm SHCS Bolts 
+2x WS2812B LEDs
+1x EC11 Rotary Encoder
+1x XIAO RP2040 
+1x Case
 
 Very Important!
 
