@@ -15,11 +15,9 @@ This has 2 parts to the case, which will be held together with 4 M3 Screws
 
 Schematic
 
- Here's my PCB! It was made in KiCad
+![Schematic image](https://github.com/Shai-08/hackpad/blob/main/Schematic.png)
 
-Schematic Schematic
-
-PCB Schematic
+![PCB Schematic]()
 
 I used MX_V2 for the keyswitch footprints. I think in retrospect, I should've added a ground plane
 
