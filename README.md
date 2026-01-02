@@ -37,6 +37,3 @@ BOM:
 1x XIAO RP2040 
 1x Case
 
-Very Important!
-
-i have no idea if anything will work, i followed the hackpad tutorial on the website, and added a rotary encoder with the help of google. Please, please make sure everything will work. This is my first time creating the wiring for anything.
