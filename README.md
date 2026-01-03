@@ -10,8 +10,11 @@ CAD Model:
 
 This has 2 parts to the case, which will be held together with 4 M3 Screws
 
-![Case image](https://github.com/Shai-08/hackpad/blob/main/case1.png)
+![Case image](https://github.com/Shai-08/hackpad/blob/main/case2.png)
 
+(I cant find a way to get a render without the lines, i tried rendering the image but the colors just aint it)
+
+![Case image](https://github.com/Shai-08/hackpad/blob/main/case3.png)
 
 Schematic
 
