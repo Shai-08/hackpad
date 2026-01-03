@@ -10,7 +10,7 @@ CAD Model:
 
 This has 2 parts to the case, which will be held together with 4 M3 Screws
 
-![Case image](https://github.com/Shai-08/hackpad/blob/main/case.png)
+![Case image](https://github.com/Shai-08/hackpad/blob/main/case1.png)
 
 
 Schematic
