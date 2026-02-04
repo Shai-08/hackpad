@@ -40,3 +40,5 @@ BOM:
 1x XIAO RP2040 
 1x Case
 
+
+video of everything working: https://youtu.be/ciVRcrCHMa8
