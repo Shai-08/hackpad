@@ -44,4 +44,4 @@ BOM:
 video of everything working: https://youtu.be/ciVRcrCHMa8
 
 finished product (the top part of the plate broke): 
-![Finished Product](https://github.com/Shai-08/hackpad/blob/main/IMG_1702.JPEG)
+![Finished Product](https://github.com/Shai-08/hackpad/blob/main/picture.png)
